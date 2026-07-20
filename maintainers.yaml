@@ -1,0 +1,23 @@
+# Maintainer roster for Inspektor Gadget
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+
+#  Maintainers: Please connect your GitHub handle to your LFID on openprofile.dev to enable automatic access to CNCF resources. The system will use your primary email address for setup.
+maintainers:
+  - project_id: "inspektor-gadget"
+    org: "inspektor-gadget"
+    teams:
+      - name: "project-maintainers"
+        members:
+          - mauriciovasquezbernal
+          - alban
+          - eiffel-fl
+          - blanquicet
+          - flyth
+          - burak-ok
+          - mqasimsarfraz
+          - claudiamarcubina
+          - blixtra
+          - mayasingh17
+          - vfalico
+          - matthyx
