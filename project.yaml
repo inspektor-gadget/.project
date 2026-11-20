@@ -23,7 +23,7 @@ repositories:
 
 website: "https://inspektor-gadget.io/"
 
-artwork: "https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/projects/inspektor-gadget/icon/color/inspektor-gadget-icon-color.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/inspektor-gadget"
 
 adopters:
   path: "https://github.com/inspektor-gadget/inspektor-gadget/blob/main/ADOPTERS.md"
